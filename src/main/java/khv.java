@@ -6,6 +6,7 @@ public class khv {
         System.out.println("dqwedwq");
 
         System.out.println("dqwe");
+        System.out.println("dqwe");
 
 
         System.out.println("dqwedwq");
